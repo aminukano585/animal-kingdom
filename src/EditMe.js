@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import './EditMe.css'
 import Card from './Card'
+// eslint-disable-next-line
 import { ANIMALS, TERRITORIES, ME_FILENAME } from './constants'
 
 class EditMe extends Component {
